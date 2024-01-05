@@ -1,0 +1,19 @@
+body{
+  display: flex;
+  align-items: center;
+  background-color: black;
+  height: 100vh;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.stopWatch{
+  color: yellow;
+  font-size: 150px;
+
+}
+button{
+  margin-right: 10px;
+}
